@@ -77,5 +77,5 @@ A: No, an internet connection is required to process images through the AI.
 
 <p align="center">
   Made with ❤️ in Texas<br>
-  © 2024 Shalusri Inc.
+  © 2025 Shalusri Inc.
 </p>
